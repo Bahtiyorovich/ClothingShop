@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/static/js/main.39967bba.js",
+    "static/media/loginIMG.jpg": "/static/media/loginIMG.125129b77185d35e0ef4.jpg",
+    "static/media/Daco_4949013.png": "/static/media/Daco_4949013.a4bc57291d33512378e1.png",
+    "static/media/red-dress.png": "/static/media/red-dress.95acc91501897ca43c73.png",
+    "static/media/background.jpg": "/static/media/background.e7d543c41d86c6e6bf70.jpg",
+    "static/media/men-bag.png": "/static/media/men-bag.d921a7e946cb0589d038.png",
+    "static/media/Daco_4132533.png": "/static/media/Daco_4132533.e71d239fcb16d347e212.png",
+    "static/media/register.jpg": "/static/media/register.df6265a6fade1a761b14.jpg",
+    "static/media/shoes.png": "/static/media/shoes.1a07e9f48ab89da5ce88.png",
+    "static/media/children.png": "/static/media/children.91467c5fd69ed92fc937.png",
+    "static/media/payments.png": "/static/media/payments.9da0c80c590be607de29.png",
+    "index.html": "/index.html",
+    "main.39967bba.js.map": "/static/js/main.39967bba.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.39967bba.js"
+  ]
+}
